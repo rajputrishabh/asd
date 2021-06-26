@@ -1,2 +1,3 @@
 file2
 new line for test
+chnge in file2

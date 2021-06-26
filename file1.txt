@@ -1,4 +1,8 @@
 file1
 new line for merge test
 revert test1
+<<<<<<< Updated upstream
 urgent fix
+=======
+stash test
+>>>>>>> Stashed changes
