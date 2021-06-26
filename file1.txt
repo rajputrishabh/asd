@@ -1,2 +1,3 @@
 file1
 new line for merge test
+revert test1
